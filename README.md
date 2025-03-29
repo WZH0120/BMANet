@@ -1,4 +1,4 @@
-## [BSPC 25] [BMANet: Boundary-guided multi-level attention network for polyp segmentation in colonoscopy images](https://www.sciencedirect.com/science/article/abs/pii/S1746809425000357)
+## [BSPC 2025] [BMANet: Boundary-guided multi-level attention network for polyp segmentation in colonoscopy images](https://www.sciencedirect.com/science/article/abs/pii/S1746809425000357)
 Zihuang Wu, Hua Chen, Xinyu Xiong, Shang Wu, Hongwei Li and Xinyu Zhou
 
 ## Introduction
